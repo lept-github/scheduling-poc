@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "@fullcalendar-examples/react-scheduler",
-  "title": "FullCalendar React Example Project (with Premium)",
+  "name": "scheduling-poc",
+  "title": "scheduling-poc",
   "version": "0.0.0",
   "license": "ISC",
   "scripts": {
