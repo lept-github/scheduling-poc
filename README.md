@@ -9,19 +9,17 @@ For complete instructions on how to initialize your build system, see the [FullC
 ## Installation
 
 ```bash
-git clone https://github.com/fullcalendar/fullcalendar-examples.git
-cd fullcalendar-examples/react
-npm install
+yarn install
 ```
 
 
 ## Build Commands
 
 ```bash
-npm run start # builds and opens a web browser
+yarn start # builds and opens a web browser
 
 # other commands:
-npm run build # builds files into dist/ directory
-npm run watch # same as build, but watches for changes
-npm run clean # start fresh
+yarn build # builds files into dist/ directory
+yarn watch # same as build, but watches for changes
+yarn clean # start fresh
 ```
